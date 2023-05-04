@@ -1,4 +1,4 @@
-import ../my_module
+import my_module
 
 def test_multiply():
     assert my_module.multiply(2, 3) == 6
